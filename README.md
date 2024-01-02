@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @nAr1c0
-- 👀 I’m interested in programming.
-- 🌱 I’m want to be backend developer.
+
